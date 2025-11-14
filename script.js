@@ -8,6 +8,8 @@ const pipeImg = new Image();
 pipeImg.src = "assets/rahul.webp";
 
 // const jumpSound = new Audio("assets/maka.mp3"); // because of this sound this repo got blocked for github 
+
+const jumpSound = new Audio("assets/jump.mp3");
 const gameOverSound = new Audio("assets/gameover.mp3");
 const bgMusic = new Audio("assets/music.mp3");
 bgMusic.loop = true;
